@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.8"/>
+	<classpathentry kind="lib" path="Directions/commons-beanutils-1.8.3.jar"/>
+	<classpathentry kind="lib" path="Directions/commons-collections-3.2.1.jar"/>
+	<classpathentry kind="lib" path="Directions/commons-io-2.4.jar"/>
+	<classpathentry kind="lib" path="Directions/commons-lang-2.6.jar"/>
+	<classpathentry kind="lib" path="Directions/commons-logging-1.1.1.jar"/>
+	<classpathentry kind="lib" path="Directions/ezmorph-1.0.6.jar"/>
+	<classpathentry kind="lib" path="Directions/json-lib-2.4-jdk15.jar"/>
+	<classpathentry kind="lib" path="DirectionsLibraries/commons-codec-1.9.jar"/>
+	<classpathentry kind="lib" path="DirectionsLibraries/commons-logging-1.2.jar"/>
+	<classpathentry kind="lib" path="DirectionsLibraries/fluent-hc-4.5.2.jar"/>
+	<classpathentry kind="lib" path="DirectionsLibraries/httpclient-4.5.2.jar"/>
+	<classpathentry kind="lib" path="DirectionsLibraries/httpclient-cache-4.5.2.jar"/>
+	<classpathentry kind="lib" path="DirectionsLibraries/httpclient-win-4.5.2.jar"/>
+	<classpathentry kind="lib" path="DirectionsLibraries/httpcore-4.4.4.jar"/>
+	<classpathentry kind="lib" path="DirectionsLibraries/httpmime-4.5.2.jar"/>
+	<classpathentry kind="lib" path="DirectionsLibraries/jna-4.1.0.jar"/>
+	<classpathentry kind="lib" path="DirectionsLibraries/jna-platform-4.1.0.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
